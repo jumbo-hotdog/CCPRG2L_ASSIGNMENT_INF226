@@ -2,7 +2,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.Scanner;
 
-public class exercise1 {
+public class Exercise1 {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
