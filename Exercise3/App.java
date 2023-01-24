@@ -46,7 +46,7 @@ public class App {
         sword.rarity = "Epic";
         sword.add(5);
         sword.add(5);
-        System.out.println(sword.weaponInfo());
+        System.out.println(sword.showNameandRarity());
 
     }
 }
