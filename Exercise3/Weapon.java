@@ -13,7 +13,7 @@ public class Weapon {
         this.damage = newDamage;
     }
 
-    String weaponInfo () {
+    String showNameandRarity () {
         return "Weapon name: " + name + "\n" + "Rarity: " + rarity;
     }
 }
